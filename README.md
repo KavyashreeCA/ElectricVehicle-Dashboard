@@ -1,8 +1,25 @@
-# React + Vite
+# Electric Vehicle Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a comprehensive dashboard for visualizing electric vehicle data. It provides insights into electric vehicle populations, average ranges, and makes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Search Functionality**: Search for electric vehicles by VIN.
+- **Metrics Overview**: Displays total electric vehicles, average electric range, and the most common make.
+- **Visualizations**: Interactive charts and graphs to visualize data trends.
+- **Data Table**: A paginated table displaying detailed information about electric vehicles.
+
+## Live Dashboard
+
+View the live dashboard at: [Your Live Dashboard URL Here](YOUR_LIVE_DASHBOARD_URL)
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+
+- Node.js
+- npm (Node Package Manager)
+
+
