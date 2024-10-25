@@ -11,7 +11,7 @@ This project is a comprehensive dashboard for visualizing electric vehicle data.
 
 ## Live Dashboard
 
-View the live dashboard at: [Your Live Dashboard URL Here](YOUR_LIVE_DASHBOARD_URL)
+View the live dashboard at: (https://kavyashreeca.github.io/ElectricVehicle-Dashboard/)
 
 ## Getting Started
 
